@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-PATH_FILES := vendor/huawei/msm8916/proprietary
+PATH_FILES := vendor/huawei/hwY635/proprietary
 
 # Bin
 PRODUCT_COPY_FILES += \

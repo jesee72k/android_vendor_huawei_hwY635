@@ -29,4 +29,4 @@ PRODUCT_PACKAGES += \
     libqct_resampler \
     libtime_genoff
 
-$(call inherit-product, vendor/huawei/msm8916/msm8916-vendor-blobs.mk)
+$(call inherit-product, vendor/huawei/hwY635/hwY635-vendor-blobs.mk)
