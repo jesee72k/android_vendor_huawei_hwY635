@@ -466,7 +466,7 @@ PRODUCT_COPY_FILES += \
     $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so \
     $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so \
     $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so \   
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so \
     $(PATH_FILES)/vendor/lib/libchromatix_s5k9a1_liteon_common.so:system/vendor/lib/libchromatix_s5k9a1_liteon_common.so \
     $(PATH_FILES)/vendor/lib/libchromatix_s5k9a1_liteon_default_video.so:system/vendor/lib/libchromatix_s5k9a1_liteon_default_video.so \
     $(PATH_FILES)/vendor/lib/libchromatix_s5k9a1_liteon_liveshot.so:system/vendor/lib/libchromatix_s5k9a1_liteon_liveshot.so \
@@ -686,4 +686,4 @@ PRODUCT_COPY_FILES += \
     $(PATH_FILES)/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so
 
 PRODUCT_COPY_FILES += \
-    $(PATH_FILES)/bin/vm_bms:recovery/root/sbin/vm_bms
+    $(PATH_FILES)/bin/vm_bms:recovery/root/sbin/vm_bms 
