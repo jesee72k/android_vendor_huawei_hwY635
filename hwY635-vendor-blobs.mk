@@ -601,7 +601,6 @@ PRODUCT_COPY_FILES += \
     $(PATH_FILES)/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     $(PATH_FILES)/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     $(PATH_FILES)/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
-    $(PATH_FILES)/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
     $(PATH_FILES)/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     $(PATH_FILES)/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     $(PATH_FILES)/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
@@ -681,6 +680,8 @@ PRODUCT_COPY_FILES += \
     $(PATH_FILES)/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     $(PATH_FILES)/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     $(PATH_FILES)/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
+    $(PATH_FILES)/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
+    $(PATH_FILES)/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
     $(PATH_FILES)/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
     $(PATH_FILES)/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so
 
